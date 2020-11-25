@@ -12,7 +12,7 @@ My name is YYQ and I'm a software developer/project manager. I'm from China, liv
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim-idea&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-Hyperion_Essbase-informational?style=flat&logo=hyperion&logoColor=white&color=blue)
