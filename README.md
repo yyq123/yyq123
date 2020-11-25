@@ -4,11 +4,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1]
 
-## &#x270d; Blog & Writing
+## &#x270d; Blog
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+[语虚](https://yyq123.blogspot.com)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -27,9 +27,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/yyq123/yyq123">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyq123&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/yyq123/yyq123">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yyq123&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
@@ -54,9 +51,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/yyq123
+[2]: https://github.com/yyq123
 
 
 <!-- Resources -->
